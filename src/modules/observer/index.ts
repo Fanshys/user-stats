@@ -1,0 +1,1 @@
+export { slotsObserver } from './observer';

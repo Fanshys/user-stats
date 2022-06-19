@@ -1,0 +1,1 @@
+export { slotsWatcher } from './watcher';

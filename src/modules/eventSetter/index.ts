@@ -1,0 +1,1 @@
+export { setEvents } from './eventSetter';
